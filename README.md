@@ -187,21 +187,21 @@ print(le.inverse_transform(x_single_prediction))
 
 
 ## Dataset Information
-![](1.PNG)
+![](C:\Users\Pavan\AppData\Local\Temp\7938824c-e488-4024-834c-9caaec565912_nn-classification-main.zip.912\nn-classification-main\1.PNG)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![](2.png)
+![](C:\Users\Pavan\AppData\Local\Temp\0dd301b5-6648-4f1c-9fcf-294acac02540_nn-classification-main.zip.540\nn-classification-main\2.png)
 
 ### Classification Report
-![](3.PNG)
+![](C:\Users\Pavan\AppData\Local\Temp\f092426d-99cc-45f4-8013-f053c6b6d55c_nn-classification-main.zip.55c\nn-classification-main\3.PNG)
 
 ### Confusion Matrix
-![](4.PNG)
+![](C:\Users\Pavan\AppData\Local\Temp\6a313fc0-27a1-4196-9e8a-986dc861ecab_nn-classification-main.zip.cab\nn-classification-main\4.PNG)
 
 ### New Sample Data Prediction
-![](5.PNG)
+![](C:\Users\Pavan\AppData\Local\Temp\289784fb-839c-4a69-977f-218ad347a434_nn-classification-main.zip.434\nn-classification-main\5.PNG)
 
 ## RESULT
 Thus a Neural Network Classification Model is created and executed successfully
