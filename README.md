@@ -187,7 +187,7 @@ print(le.inverse_transform(x_single_prediction))
 
 
 ## Dataset Information
-![](![1](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/a7d12a19-f84c-4cd3-a474-ae28b8dbc05f))
+![](![1]https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/a7d12a19-f84c-4cd3-a474-ae28b8dbc05f)
 
 ## OUTPUT
 
