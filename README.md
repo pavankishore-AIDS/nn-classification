@@ -193,17 +193,20 @@ print(le.inverse_transform(x_single_prediction))
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![](![2](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/6e0f5982-e9a5-4556-8d59-b6fb6e83701e))
+![2](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/e84eee74-61d5-47c3-9a59-5b6c0f317197)
+
 
 
 ### Classification Report
-![](![3](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/3aefcf24-742f-44bb-b2d5-c50e11a3a010))
+![3](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/37baf503-c6f0-4bc3-b9fc-d6b68e9f29f3)
+
 
 ### Confusion Matrix
-![](C:\Users\Pavan\AppData\Local\Temp\6a313fc0-27a1-4196-9e8a-986dc861ecab_nn-classification-main.zip.cab\nn-classification-main\4.PNG)
+![4](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/1414695a-5166-49c1-8fd5-c627c2c07d6e)
+
 
 ### New Sample Data Prediction
-![](C:\Users\Pavan\AppData\Local\Temp\289784fb-839c-4a69-977f-218ad347a434_nn-classification-main.zip.434\nn-classification-main\5.PNG)
+![5](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/9842270b-9ae5-40d0-bc67-3c9808bc528b)
 
 ## RESULT
 Thus a Neural Network Classification Model is created and executed successfully
