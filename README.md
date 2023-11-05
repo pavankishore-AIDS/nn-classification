@@ -187,15 +187,16 @@ print(le.inverse_transform(x_single_prediction))
 
 
 ## Dataset Information
-![](C:\Users\Pavan\AppData\Local\Temp\7938824c-e488-4024-834c-9caaec565912_nn-classification-main.zip.912\nn-classification-main\1.PNG)
+![](![1](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/a7d12a19-f84c-4cd3-a474-ae28b8dbc05f))
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![](C:\Users\Pavan\AppData\Local\Temp\0dd301b5-6648-4f1c-9fcf-294acac02540_nn-classification-main.zip.540\nn-classification-main\2.png)
+![](![2](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/6e0f5982-e9a5-4556-8d59-b6fb6e83701e))
+
 
 ### Classification Report
-![](C:\Users\Pavan\AppData\Local\Temp\f092426d-99cc-45f4-8013-f053c6b6d55c_nn-classification-main.zip.55c\nn-classification-main\3.PNG)
+![](![3](https://github.com/pavankishore-AIDS/nn-classification/assets/94154941/3aefcf24-742f-44bb-b2d5-c50e11a3a010))
 
 ### Confusion Matrix
 ![](C:\Users\Pavan\AppData\Local\Temp\6a313fc0-27a1-4196-9e8a-986dc861ecab_nn-classification-main.zip.cab\nn-classification-main\4.PNG)
